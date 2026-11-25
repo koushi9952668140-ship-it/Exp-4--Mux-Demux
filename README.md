@@ -90,10 +90,11 @@ endmodule
 
 ### 2:1 Multiplexer
 
-
+<img width="573" height="154" alt="image" src="https://github.com/user-attachments/assets/96dd3fa2-7747-402d-b88f-17c11e28fcbb" />
 
 ### 1:2 Demultiplexer
 
+<img width="583" height="90" alt="image" src="https://github.com/user-attachments/assets/4bc21b52-1db5-4302-afab-ebb0b9d5a74b" />
 
 ## Simulation Procedure
 
