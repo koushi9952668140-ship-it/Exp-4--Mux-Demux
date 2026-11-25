@@ -90,10 +90,10 @@ endmodule
 
 ### 2:1 Multiplexer
 
-<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/7cde47bf-819f-434b-88b1-851543349591" />
+
 
 ### 1:2 Demultiplexer
-<img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/13279426-068e-4979-b331-590925759a07" />
+
 
 ## Simulation Procedure
 
@@ -148,7 +148,9 @@ The 2:1 Multiplexer and 1:2 Demultiplexer were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ## Output
+<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/7cde47bf-819f-434b-88b1-851543349591" />
 
+<img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/13279426-068e-4979-b331-590925759a07" />
 
 ## Viva-Voce Questions
 
